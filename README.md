@@ -6,4 +6,4 @@
 
 ![pw-screenshot](https://github.com/adriang1004/generate-pw/assets/144719329/66927f00-930f-48e8-a04d-289f70784baf)
 
-## https://adriang1004.github.io/generate-pw
+## 
