@@ -15,6 +15,7 @@ function writePassword() {
 // created separate functions to gather user selections 
 
 function generatePassword() {
+  console.log("generatepassword");
   var passwordLength = getPasswordLength();
   var characterTypes = getCharacterTypes();
   var allChars = "";
@@ -70,9 +71,8 @@ function getCharacterTypes() {
   };
 }
 
-getPasswordLength();
-getCharacterTypes();
+// getPasswordLength();
+// getCharacterTypes();
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
-writePassword(); 
